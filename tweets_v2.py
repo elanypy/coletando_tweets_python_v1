@@ -3,10 +3,10 @@ import csv
 import tweepy as tw
 import pandas as pd 
 
-consumer_key = 'svyUFTExD7p4f3OtcgaTGTK3I'
-consumer_secret = 'iALts0SG9Ejl6G0alUrJ2gmxaeP7xqCeWitZ7a3PHFpXzZJ411'
-access_token = '1202304489136545792-Lsy3BqC3rXKw89mlb0ahS9lTsGxKn7'
-access_token_secret = 'ctWv6umpzQKJYPE4DoYuIqcdc5oy3U3uMxZ63qb1ajwQx'
+consumer_key = '**************************'
+consumer_secret = '**************************'
+access_token = '**************************'
+access_token_secret = '**************************'
 
 #keywords
 search_word = "#ccxp2019"
